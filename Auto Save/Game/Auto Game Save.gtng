@@ -1,0 +1,61 @@
+do not add or subtract lines, file is line sensitive - only change the settings if desired not the comments
+
+Your last start number
+100
+
+Your last end number
+200
+
+Currently not being used, full text, number symbol at bottom
+
+
+The number of guesses left
+15
+
+Your level number
+1
+
+Your score so far
+0
+
+Whether you quit or not, can be full alphabet, numbers, symbols, etc...
+Usually -did not- if you ran out of guesses or -did- if you gave up
+If you press give up your answer will be changed to -did- anyways
+did not
+
+The number your guessing for
+0
+
+Currently not being used
+0
+0
+
+Your last entry that will not be restored on saved game open
+
+
+These are working temporary numbers that help determine the score
+Changing them is really pointless as they change everytime you guess
+when guesses too low
+0
+
+when guessed too high
+0
+
+when guessed correctly
+0
+
+Additional Optional Configuration's for people viewing game file in text editor
+
+If you changed the start and-or end number, do you want to
+refresh the random guess number to update within your paremeters
+yes or no --- all lowercase
+yes
+
+Do you want to restore the last entry such as the guess you last typed which will be -save-
+unless you changed it - yes or no --- all lowercase
+
+
+If you changed the level then do you want to refresh all the other numbers to
+bring the game up to that level - may overwrite any other changes you made above
+yes or no --- all lowercase
+
